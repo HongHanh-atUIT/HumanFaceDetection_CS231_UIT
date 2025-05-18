@@ -11,4 +11,4 @@ II. Mô tả các file:
 - Face_Detection_HOG_SVM.ipynb: file này là chính, dùng để train model phân loại SVM và thực hiện việc chạy demo quá trình phát hiện khuôn mặt trên 1 bức ảnh nào đó.
 - SaveDetection.py: file này dùng để kiểm tra quá trình phát hiện khuôn mặt, lưu kết quả vào các file csv.
 - Tunning: file này dùng để tìm tham số cho HOG và SVM.
-  
+- Annotations: là file zip của thư mục chứa các file annotations của các ảnh trong bộ dữ liệu, lưu dưới định dạng PASCAL VOC.
